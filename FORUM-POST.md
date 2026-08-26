@@ -18,46 +18,46 @@ Filenames follow RSG-Core naming, so most items line up with what your server al
 
 **Provisions** · 61
 
-![Provisions](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/redm-photoreal/provisions-1.png)
-![Provisions](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/redm-photoreal/provisions-2.png)
+![Provisions](https://raw.githubusercontent.com/SwisserDev/redm-icons-photoreal/main/preview/provisions-1.png)
+![Provisions](https://raw.githubusercontent.com/SwisserDev/redm-icons-photoreal/main/preview/provisions-2.png)
 
 **Hunting** · 58
 
-![Hunting](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/redm-photoreal/hunting-1.png)
-![Hunting](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/redm-photoreal/hunting-2.png)
+![Hunting](https://raw.githubusercontent.com/SwisserDev/redm-icons-photoreal/main/preview/hunting-1.png)
+![Hunting](https://raw.githubusercontent.com/SwisserDev/redm-icons-photoreal/main/preview/hunting-2.png)
 
 **Fishing** · 30
 
-![Fishing](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/redm-photoreal/fishing.png)
+![Fishing](https://raw.githubusercontent.com/SwisserDev/redm-icons-photoreal/main/preview/fishing.png)
 
 **Horse Tack** · 30
 
-![Horse Tack](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/redm-photoreal/horse_tack.png)
+![Horse Tack](https://raw.githubusercontent.com/SwisserDev/redm-icons-photoreal/main/preview/horse_tack.png)
 
 **Medicine & Tonics** · 45
 
-![Medicine & Tonics](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/redm-photoreal/medicine_tonics-1.png)
-![Medicine & Tonics](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/redm-photoreal/medicine_tonics-2.png)
+![Medicine & Tonics](https://raw.githubusercontent.com/SwisserDev/redm-icons-photoreal/main/preview/medicine_tonics-1.png)
+![Medicine & Tonics](https://raw.githubusercontent.com/SwisserDev/redm-icons-photoreal/main/preview/medicine_tonics-2.png)
 
 **Frontier Tools** · 35
 
-![Frontier Tools](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/redm-photoreal/frontier_tools.png)
+![Frontier Tools](https://raw.githubusercontent.com/SwisserDev/redm-icons-photoreal/main/preview/frontier_tools.png)
 
 **Valuables** · 25
 
-![Valuables](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/redm-photoreal/valuables.png)
+![Valuables](https://raw.githubusercontent.com/SwisserDev/redm-icons-photoreal/main/preview/valuables.png)
 
 **Documents** · 25
 
-![Documents](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/redm-photoreal/documents.png)
+![Documents](https://raw.githubusercontent.com/SwisserDev/redm-icons-photoreal/main/preview/documents.png)
 
 **Camp** · 30
 
-![Camp](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/redm-photoreal/camp.png)
+![Camp](https://raw.githubusercontent.com/SwisserDev/redm-icons-photoreal/main/preview/camp.png)
 
 **Firearms Accessories** · 25
 
-![Firearms Accessories](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/redm-photoreal/firearms_accessories.png)
+![Firearms Accessories](https://raw.githubusercontent.com/SwisserDev/redm-icons-photoreal/main/preview/firearms_accessories.png)
 
 ## The other styles
 
